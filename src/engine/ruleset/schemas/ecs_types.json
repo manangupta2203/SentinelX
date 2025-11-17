@@ -1,0 +1,14 @@
+[
+  "boolean",
+  "date",
+  "double",
+  "float",
+  "geo_point",
+  "integer",
+  "ip",
+  "keyword",
+  "long",
+  "nested",
+  "object",
+  "scaled_float"
+]
